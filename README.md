@@ -1,0 +1,2 @@
+# springbatch
+每个包下面的Demo类的@Configuration都被注释掉了，去掉注释，每一个XXXXXXApplication都可以启动，就是一个小项目
