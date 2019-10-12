@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customers>
+    <customer>
+        <id>1001</id>
+        <name>User1</name>
+        <age>18</age>
+    </customer>
+    <customer>
+        <id>1002</id>
+        <name>User2</name>
+        <age>12</age>
+    </customer>
+    <customer>
+        <id>1003</id>
+        <name>User3</name>
+        <age>17</age>
+    </customer>
+    <customer>
+        <id>1004</id>
+        <name>User4</name>
+        <age>23</age>
+    </customer>
+    <customer>
+        <id>1005</id>
+        <name>User5</name>
+        <age>26</age>
+    </customer>
+    <customer>
+        <id>1006</id>
+        <name>User6</name>
+        <age>32</age>
+    </customer>
+    <customer>
+        <id>1007</id>
+        <name>User7</name>
+        <age>41</age>
+    </customer>
+</customers>
